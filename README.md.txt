@@ -1,5 +1,5 @@
 # tea-alberthung
-# Một thư viện giúp bạn tính tổng của 2 số bất kỳ
+Một thư viện giúp bạn tính tổng của 2 số bất kỳ
 git init
 git add .
 git commit -m "init"
